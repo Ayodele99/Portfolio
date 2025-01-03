@@ -3,7 +3,7 @@ A portfolio showcasing my projects in machine learning and data analysis.
 
 ## Projects
 
-- [Bike Data Analysis](./bike_rental_final_code.ipynb)
-- [Sales Dashboard with power BI](./Sales_Dashboard)
-- [Sales Report with Excel](./Excel_Project)
+- [Bike Rental Analysis](./Bike_Rental/README.md)
+- [Power BI Dashboard](./Sales Dashboard/README.md)
+- [Excel Analysis](./Excel Report/README.md)
 
